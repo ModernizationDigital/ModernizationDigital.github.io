@@ -1,6 +1,7 @@
 ## Hi Mary... 
 
 I want to try and set up a page frame with three columns; 
+
 Left - for our Menu; 
 Center - for content; with a 
 Right - 2 inch margin to use for our pop out drawer; for fun facts; definitions; links; case studies. 
