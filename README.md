@@ -1,6 +1,6 @@
 ## About This Project
 
-Hi Mary, this is just another test for me. I'm trying to find a playbook template to start out with. I'm trying to see if I can set up a few for you to choose which would be a good starting point for us this month. Something functional w/out all the bells and whistles. Most don't have that. but still I'd like the layout to be something where we could start to create something engaging
+Hi Mary, this is just another test for me. I'm trying to find a playbook template to start out with. I'm trying to see if I can set up a few for you to choose which would be a good starting point for us this month. Something functional w/out all the bells and whistles. Most don't have that. but still I'd like the layout to be something where we could start to create something engaging. testing 
 
 ----=
 The rest is just content from the Americans. 
