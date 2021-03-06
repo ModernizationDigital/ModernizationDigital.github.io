@@ -1,6 +1,9 @@
 ## Hi Mary... 
 
-I want to try and set up a page frame with three columns; Left for our Menu; Center for content; with a Right 2 inch margin to use for our pop out drawer; for fun facts; definitions; links; case studies. 
+I want to try and set up a page frame with three columns; 
+Left - for our Menu; 
+Center - for content; with a 
+Right - 2 inch margin to use for our pop out drawer; for fun facts; definitions; links; case studies. 
 
 Right Margin controls the width of our main content. So we don't end up with copy that flows too wide as the page is expanded by user. It's hard for the eye to follow long lines of text. that's why newspapers are layed out in columns. If you run copy the whole width of a page; it needs to be a different typography treatment (larger text). 
 
