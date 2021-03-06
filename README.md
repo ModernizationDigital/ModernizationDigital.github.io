@@ -8,6 +8,12 @@ Right - 2 inch margin to use for our pop out drawer; for fun facts; definitions;
 
 Right Margin controls the width of our main content. So we don't end up with copy that flows too wide as the page is expanded by user. It's hard for the eye to follow long lines of text. that's why newspapers are layed out in columns. If you run copy the whole width of a page; it needs to be a different typography treatment (larger text). 
 
+You can ignore the rest... its just from the template. 
+
+________
+
+
+
 You can use the [editor on GitHub](https://github.com/ModernizationDigital/ModernizationDigital.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
