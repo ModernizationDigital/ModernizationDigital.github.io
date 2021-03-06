@@ -1,3 +1,11 @@
-theme: jekyll-theme-slate
-title: under construction
-description: digital modernization playbook
+permalink: pretty
+highlighter: rouge
+url: https://playbook.cio.gov
+
+collections:
+  - plays
+
+markdown: kramdown
+
+sass:
+    sass_dir: assets/_sass
