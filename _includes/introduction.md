@@ -6,9 +6,7 @@ Note to our readers: Can you imagine a playbook for work that you would look for
 
 Digital Modernization leads to so many sub industries and career paths. As you progress in your industry knowledge you see it all makes sense.  
 
-Remember the first time you saw a printer print wirelessly. It's actually quite fascinating. How did people figure this out? Some thing I typed on my computer magically went to another device and now I'm holding a piece of paper with everything I typed. That's amazing. Now we've scaled that up exponentially to 
-
-<a class="trigger_popup_fricc">data servers</a>
+Remember the first time you saw a printer print wirelessly. It's actually quite fascinating. How did people figure this out? Some thing I typed on my computer magically went to another device and now I'm holding a piece of paper with everything I typed. That's amazing. Fastforward 12 years and we've scaled that up exponentially to <a class="trigger_popup_fricc">data servers</a>
 
 <div class="hover_bkgr_fricc">
     <span class="helper"></span>
