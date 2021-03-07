@@ -1,5 +1,4 @@
-# Digital Services Playbook
+# Modernization Playbook by OneTeam
 
-The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building digital services that meet their needs, we can make the delivery of our policy and programs more effective.   
+Hi Mary, testing 1234. I'm trying to find a playbook template to start out with. I'm trying to see if I can set up a few for you to choose which would be a good starting point for us this month. Something functional w/out all the bells and whistles. Most don't have that. but still I'd like the layout to be something where we could start to create something engaging. testing 
 
-Today, too many of our digital services projects do not work well, are delivered late, or are over budget. To increase the success rate of these projects, the U.S. Government needs a new approach. We created a playbook of 13 key “plays” drawn from successful practices from the private sector and government that, if followed together, will help government build effective digital services.
