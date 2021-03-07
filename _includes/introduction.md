@@ -7,12 +7,4 @@ Data Centers — where our data and files that we put in the cloud are located.
 
 what i like about this template: 
 when you scroll down, links to plays come up and stay at the top. that's different. 
-I like the font; of the word PLAY and treament o... the rest of the typography can go. 
-<a class="trigger_popup_fricc">data centres</a>
-<div class="hover_bkgr_fricc">
-    <span class="helper"></span>
-    <div>
-        <div class="popupCloseButton">&times;</div>
-        <p>What is a Data Centre?<br/>data servers are so cool</p>
-    </div>
-</div>
+I like the treament of: Play 1, Play 2, etc... the rest of the typography can go. 
