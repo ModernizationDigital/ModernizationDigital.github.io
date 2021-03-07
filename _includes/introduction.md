@@ -16,9 +16,7 @@ Remember the first time you saw a printer print wirelessly. It's actually quite 
         <div class="popupCloseButton">&times;</div>
         <p>Add any HTML content<br />data servers are so cool</p>
     </div>
-</div> 
-
-- where our data and files that we put in the cloud are located. 
+</div> - where our data and files that we put in the cloud are located. 
 
 what i like about this template: 
 when you scroll down, links to plays come up and stay at the top. that's different. 
